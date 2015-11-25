@@ -17,7 +17,7 @@ matrix:
     - jdk: oraclejdk8
 notifications:
     email:
-       - vidyac.raghav@gmail.com
+       - varsha.arun04@gmail.com
 #build_image: shippable/minv2:beta
 
 #cache: true
